@@ -4,7 +4,7 @@
 #
 Name     : golang-github-docker-distribution
 Version  : 9d491698ccf3eba4e87213350518dbaacf8e9650
-Release  : 6
+Release  : 7
 URL      : https://github.com/docker/distribution/archive/9d491698ccf3eba4e87213350518dbaacf8e9650.tar.gz
 Source0  : https://github.com/docker/distribution/archive/9d491698ccf3eba4e87213350518dbaacf8e9650.tar.gz
 Summary  : No detailed summary available
